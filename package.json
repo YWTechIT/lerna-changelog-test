@@ -1,6 +1,9 @@
 {
   "name": "root",
   "private": true,
+  "scripts": {
+    "version": "lerna version --no-push --force-publish"
+  },
   "workspaces": [
     "packages/*"
   ],
