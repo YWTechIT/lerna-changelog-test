@@ -17,6 +17,7 @@
     "test": "node ./__tests__/core-elements.test.js"
   },
   "dependencies": {
+    "fetcher": "0.0.0",
     "react": "^18.2.0"
   }
 }
