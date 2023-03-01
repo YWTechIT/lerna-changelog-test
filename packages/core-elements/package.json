@@ -1,0 +1,22 @@
+{
+  "name": "core-elements",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "YWTechIT <ywtechit@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core-elements.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/core-elements.test.js"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
